@@ -1,0 +1,18 @@
+1. To execute the program first go to the directory that contains the source file.
+
+2. In terminal it appears like: \home\workspace\EM_Algorithm\src and in CMD
+it appears like: cd C:\Users\Public\workspace\EM_Algorithm\src
+
+3. Once you have reached to the folders from either of the two methods(Terminal is used for
+Linux) type javac EM_Driver.java
+ Same command goes for terminal as well
+
+5. Once this is done we can execute the program by
+typing java EM_Driver (Applies in terminal as well)
+
+6. Provide the value for K(Cluster) and number of iterartions.
+
+7. 5 options will be provided and the user can choose any of the 5 given heuristics. Once chosen
+a user can see the result and choose another heuristic for the same cluster size.
+
+8. Enter the option exit to exit from the program. 
